@@ -1,2 +1,4 @@
-package Searching.src;public class BinarySearch {
+package Searching.src;
+
+public class BinarySearch {
 }
